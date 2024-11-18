@@ -1,1 +1,2 @@
 # huuriya
+int main
